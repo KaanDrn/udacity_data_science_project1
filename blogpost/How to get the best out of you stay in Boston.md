@@ -7,7 +7,7 @@ If you don't own an apartment in Boston and and think that this article is just 
 
 ## The data
 We analysed data from AirBnb from September 2016 to 2017 provided by AirBnB and Kaggle. The data set contained different data reaching from the number of rooms, to the location and other data for each listing, listed in the mentioned years. The following correlation matrix gives an impression of the numerical data that was available and how they correlate with each other.
-![Correlationmatrix](https://raw.githubusercontent.com/KaanDrn/udacity_data_science_project1/main/blogpost/correlation.png)
+![Correlationmatrix](https://raw.githubusercontent.com/KaanDrn/udacity_data_science_project1/main/blogpost/images/correlation.png)
 
 As we can see, reviews correlate with each other, same goes for the prices, which seems not too surprising.
 But now to the reason you made it until here:
